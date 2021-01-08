@@ -21,6 +21,6 @@ Finally, use the testing data to evaluate each model and compare the performance
 
 Use the above to answer the following:
 
-- Which model has a lower loss? - RNN CLosing Prices 
-- Which model tracks the actual values better over time? - RNN Closing Prices 
+- Which model has a lower loss? - LSTM RNN Closing Prices 
+- Which model tracks the actual values better over time? - LSTM RNN Closing Prices 
 - Which window size works best for the model? - window size = 5
