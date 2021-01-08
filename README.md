@@ -17,7 +17,7 @@
 
  
  ### **Evaluating the performance of each model**
-Finally, use the testing data to evaluate each model and compare the performance.
+Lastly, use the testing data to evaluate each model and compare the performance.
 
 Use the above to answer the following:
 
